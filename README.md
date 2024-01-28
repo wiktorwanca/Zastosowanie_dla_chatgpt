@@ -82,3 +82,12 @@ Beep (beeping defiantly): Beep no leave. Beep strongest warrior. Beep stay.
 Green (chuckles): Good luck with that, Cyber-beep. Just remember, being the "STRONGEST WARRIOR" doesn't pay the bar tab.
 
 As Beep continues to beep proudly about his strength and Green nurses his drink, the unlikely duo finds themselves in the heart of Mongrel, each navigating their own peculiar challenges in a world that demands more than just strength or an "Eye for shooting."
+
+Ograniczone Zrozumienie Kontekstu:
+
+Problem: GPT-3, chociaż jest potężnym modelem, może czasami mieć trudności w zrozumieniu pełnego kontekstu. Może generować odpowiedzi, które wydają się sensowne, ale które nie uwzględniają poprzednich kwestii w rozmowie.
+Rozwiązanie Alternatywne: Modele NLP, takie jak BERT, które używają mechanizmów uwagi, mogą lepiej radzić sobie z analizą kontekstu. BERT jest zaprojektowany w taki sposób, aby rozumieć oba kierunki zdania, co może poprawić zrozumienie kontekstu w rozmowach.
+Nieprzewidywalność Odpowiedzi:
+
+Problem: GPT-3, z racji swojego charakteru generatywnego, może czasem dostarczać nieprzewidywalne odpowiedzi. Odpowiedzi mogą być kreatywne, ale równocześnie trudne do przewidzenia, co może sprawić, że nie zawsze są one idealne w danym kontekście.
+Rozwiązanie Alternatywne: Modele, które są bardziej kontrolowane, takie jak modele oparte na szeregach czasowych (transformers with memory) lub modele umożliwiające bardziej precyzyjną kontrolę nad generowanym tekstem, mogą być bardziej przewidywalne w konkretnej sytuacji.
