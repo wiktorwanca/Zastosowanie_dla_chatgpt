@@ -1,0 +1,1 @@
+# Zastosowanie_dla_chatgpt
